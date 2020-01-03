@@ -1,0 +1,9 @@
+AWSTemplateFormatVersion: '2018-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: An AWS event that triggers Lambda function 
+Resources:
+  primer:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: nodejs12.14
+      Handler: index.handler
