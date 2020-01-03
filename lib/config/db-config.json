@@ -1,10 +1,10 @@
 {
     "development": {
         "dialect": "sqlite",
-        "storage": "D:/Alpha_Dev/snappy-lambda/lib/db/snappy.db"
+        "storage": "./lib/db/snappy.db"
     },
     "test": {
         "dialect": "sqlite",
-        "storage": "D:/Alpha_Dev/snappy-lambda/lib/db/snappy.db"
+        "storage": "./lib/db/snappy.db"
     }
 }
