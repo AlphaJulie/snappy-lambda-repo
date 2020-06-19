@@ -24,4 +24,4 @@ Run `yarn test` from the **snappy** directory to run all tests in the **test** d
 
 ### Running Locally
 
-Run `node index.js` from the **snappy** director.
+Run `node index.js` from the **snappy** directory.
